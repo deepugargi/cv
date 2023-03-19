@@ -1,0 +1,22 @@
+/* Color pallette https://colorhunt.co/palette/e3fdfdcbf1f5a6e3e971c9ce */
+
+body{
+    background-color: #E3FDFD;
+}
+
+h1,h3{
+    color: #A6E3E9;
+}
+
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    
+    border-width: 5px;
+    width: 5%;
+}
+
+.profilePhoto{
+    border-radius: 50%;
+}
